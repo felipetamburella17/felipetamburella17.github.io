@@ -1,0 +1,2 @@
+Esta landing page invita al usuario a descargar Ordering, una app ya existente para usuarios del sistema Maxirest, sistema donde yo trabajo, por lo cual me pareció adecuado y familiar a la hora de desarrollar la pagina.
+Esta pagina cuenta con distintos slides y cards que explican y promueven la funcionalidad de la app, varios botones que impulsan al usuario a descargarla, y pastillas de informacion que muestran un poco el equipo de desarrollo, compañias asociadas y preguntas frecuentes sobre la misma.

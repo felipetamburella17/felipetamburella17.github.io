@@ -1,0 +1,12 @@
+.carousel-item img{
+    filter: brightness(60%);
+}
+.fa-star{
+    color: gold;
+}
+.fa-star-half-stroke{
+    color: gold;
+}
+a {
+    text-decoration: none;
+}
